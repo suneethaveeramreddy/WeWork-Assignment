@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Wework App Test Regression Suite" thread-count="4"
+	parallel="tests" verbose="4">
+
+	<test name="Create Page Test">
+		<classes>
+			<class name="com.qa.wework.tests.CreatePageTest" />
+		</classes>
+	</test>
+	
+	<test name="Delete Page Test">
+		<classes>
+			<class name="com.qa.wework.tests.DeletePageTest" />
+		</classes>
+	</test>
+	
+	<test name="Edit Page Test">
+		<classes>
+			<class name="com.qa.wework.tests.EditPageTest" />
+		</classes>
+	</test>
+	
+	<test name="Home Page Test">
+		<classes>
+			<class name="com.qa.wework.tests.HomePageTest" />
+		</classes>
+	</test>
+
+
+
+</suite>	
