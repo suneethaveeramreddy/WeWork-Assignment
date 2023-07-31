@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-31T00:38:50 JST" name="Default suite" finished-at="2023-07-31T00:38:54 JST" duration-ms="4162">
+    <groups>
+    </groups>
+    <test started-at="2023-07-31T00:38:50 JST" name="Default test" finished-at="2023-07-31T00:38:54 JST" duration-ms="4162">
+      <class name="com.qa.wework.tests.DeletePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.wework.tests.DeletePageTest@36bc55de]" started-at="2023-07-31T00:38:50 JST" name="setUp" finished-at="2023-07-31T00:38:54 JST" duration-ms="3920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="deletePageSetUp()[pri:0, instance:com.qa.wework.tests.DeletePageTest@36bc55de]" started-at="2023-07-31T00:38:54 JST" name="deletePageSetUp" finished-at="2023-07-31T00:38:54 JST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletePageSetUp -->
+        <test-method signature="deletePageTitleTest()[pri:1, instance:com.qa.wework.tests.DeletePageTest@36bc55de]" started-at="2023-07-31T00:38:54 JST" name="deletePageTitleTest" finished-at="2023-07-31T00:38:54 JST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletePageTitleTest -->
+        <test-method signature="deletePageBtnExistTest()[pri:2, instance:com.qa.wework.tests.DeletePageTest@36bc55de]" started-at="2023-07-31T00:38:54 JST" name="deletePageBtnExistTest" finished-at="2023-07-31T00:38:54 JST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletePageBtnExistTest -->
+        <test-method signature="createBlogBtnExistTest()[pri:3, instance:com.qa.wework.tests.DeletePageTest@36bc55de]" started-at="2023-07-31T00:38:54 JST" name="createBlogBtnExistTest" finished-at="2023-07-31T00:38:54 JST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBlogBtnExistTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.wework.tests.DeletePageTest@36bc55de]" started-at="2023-07-31T00:38:54 JST" name="tearDown" finished-at="2023-07-31T00:38:54 JST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.wework.tests.DeletePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
